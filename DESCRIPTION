@@ -1,0 +1,12 @@
+Package: wpp2019
+Version: 1.0-0
+Date: 2019-06-17
+Title: World Population Prospects 2019
+Author: United Nations Population Division
+Maintainer: Hana Sevcikova <hanas@uw.edu>
+Depends: R (>= 2.14.2)
+Suggests: data.table
+Description: Provides data from the United Nation's World Population Prospects 2019.
+License: file LICENSE
+URL: http://population.un.org/wpp
+NeedsCompilation: no
